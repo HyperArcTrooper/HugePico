@@ -12,6 +12,7 @@ Display: https://www.waveshare.com/wiki/Pico-ResTouch-LCD-2.8
 
 
 
-
-
 Inspired by: https://learn.adafruit.com/walkmp3rson-personal-mp3-tape-player
+-----------------------------------------------------------------------------
+Usefull recources:
+https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out
