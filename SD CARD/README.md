@@ -1,1 +1,1 @@
-Put music / pictures in the root directory of the SD card.
+Put music in the root directory of the SD card.
